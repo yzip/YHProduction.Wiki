@@ -9,5 +9,4 @@ pages:
     - Frequently Asked Questions: GettingStarted/FrequentlyAskedQuestions.md
 - Receipt:
     - Bank Transfer: Other/BankTransfer.md
-    
 theme: readthedocs
