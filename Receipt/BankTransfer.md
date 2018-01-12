@@ -1,1 +1,4 @@
-<center>「YHProduction」服務條款</center>
+# Receipt
+
+## Bank Transfer
+
