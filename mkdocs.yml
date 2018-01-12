@@ -1,7 +1,7 @@
 site_name: YHProduction Wiki
 repo_url: https://github.com/yzip/YHProduction.Wiki
 pages:
-- index: index.md
+- Home: index.md
 - Prior notice:
     - Terms of Use: PriorNotice/TermsofUse.md
 - Getting Started:
