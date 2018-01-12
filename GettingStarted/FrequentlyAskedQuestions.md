@@ -4,7 +4,7 @@
 
 ---
 
-Answer: Actually,I usually to provide program update patch when the program have any problem or the website have updated.But this program i would not like to provide any program update to you.I would like to say $HKD2,000 are not are fair price to me.It is hard to made this program,and i think if you want any updated,please pay me more $HKD500/PER UPDATE OR $HKD1000/LIFETIME UPDATE.
+Answer: Actually,I usually to provide program update patch when the program have any problem or the website have updated.But this program i would not like to provide any program update to you.I would like to say $HKD2,000 are not are fair price to me.It is hard to made this program,and i think if you want any updated,please pay me more HKD$500/PER UPDATE OR HKD$1,000/LIFETIME UPDATE.
 
 ### Question 2: Can I use your software on my device?
 
