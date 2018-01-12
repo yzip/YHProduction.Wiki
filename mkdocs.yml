@@ -3,7 +3,7 @@ repo_url: https://github.com/yzip/YHProduction.Wiki
 pages:
 - index: index.md
 - Prior notice:
-    - Terms of Use: CommunityPrinciples/CommunityGuidelines.md
+    - Terms of Use: PriorNotice/TermsofUse.md
 - Getting Started:
     - Features Explained: GettingStarted/Features.md
     - Frequently Asked Questions: GettingStarted/FrequentlyAskedQuestions.md
