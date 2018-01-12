@@ -9,26 +9,16 @@ This allows us to keep Tickets Checker easy-to-setup and easy-to-use without tak
 Let's talk about product code.
 This is a amazing stuff.
 It help us run the website more fastest.
-
-AND
-
-HOW CAN I FIND IT?
-
-it's easy to find out.
+This is the way you can find out the product code.
+It's easy to find out.
 
 1.Use Google Chrome.
-
 2.Go to the page you want to use the program to check.
-
 3.Press F12 in your keyboard.
-
-4.Click Elements
-
-5.Press Ctrl + F for seacrh the word
-
-6.type the word "retrieveShowDateTime" (don't type "")
-
-7.and you will find out the productCode,which is behind retrieveShowDateTime
+4.Click Elements.
+5.Press Ctrl + F for seacrh the word.
+6.type the word "retrieveShowDateTime" (don't type "").
+7.and you will find out the productCode,which is behind retrieveShowDateTime.
 
 ### Setting
 
