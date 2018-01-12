@@ -3,10 +3,9 @@ repo_url: https://github.com/yzip/YHProduction.Wiki
 pages:
 - Home: index.md
 - Prior notice:
-     - Terms of Use: CommunityPrinciples/CommunityGuidelines.md
+     - Terms of Use: PriorNotice/TermsofUse.md
+     - Receipt: Other/BankTransfer.md
 - Getting Started:
     - Features Explained: GettingStarted/Features.md
     - Frequently Asked Questions: GettingStarted/FrequentlyAskedQuestions.md
-- Receipt:
-    - Bank Transfer: Other/BankTransfer.md
 theme: readthedocs

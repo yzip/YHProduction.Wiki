@@ -11,8 +11,7 @@ If there are any question,please feel free to ask me on Telegram.
 ## Content
 - Prior notice   
 	- [Terms of Use](PriorNotice/TermsofUse.md)
+	- [Receipt](Other/BankTransfer.md)	
 - Getting Started
 	- [Features Explained](GettingStarted/Features.md)
 	- [Frequently Asked Questions](GettingStarted/FrequentlyAskedQuestions.md)
-- Receipt
-	- [Bank Transfer](Other/BankTransfer.md)
