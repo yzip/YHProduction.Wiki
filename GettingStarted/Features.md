@@ -22,9 +22,9 @@ It's easy to find out.
 
 5.Press Ctrl + F for seacrh the word.
 
-6.type the word "retrieveShowDateTime" (don't type "").
+6.Type the word "retrieveShowDateTime" (don't type "").
 
-7.and you will find out the productCode,which is behind retrieveShowDateTime.
+7.You will find out the productCode,which is behind retrieveShowDateTime.
 
 ### Setting
 
