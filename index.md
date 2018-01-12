@@ -9,7 +9,7 @@ If there are any question,please feel free to ask me on Telegram.
 [[Telegram](https://t.me/yzfung)]
 
 ## Content
-- Prior notice 
+- Prior notice   
 	- [Terms of Use](PriorNotice/TermsofUse.md)
 - Getting Started
 	- [Features Explained](GettingStarted/Features.md)
