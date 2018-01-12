@@ -15,4 +15,4 @@ If there are any question,please feel free to ask me on Telegram.
 	- [Features Explained](GettingStarted/Features.md)
 	- [Frequently Asked Questions](GettingStarted/FrequentlyAskedQuestions.md)
 - Receipt
-    - [Bank Transfer](Receipt/BankTransfer.md)
+	- [Bank Transfer](Receipt/BankTransfer.md)
