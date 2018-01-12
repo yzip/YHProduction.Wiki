@@ -1,6 +1,6 @@
 # Welcome YHPorduction.Wiki!
 
-**This is the User Guide of tickets checker**
+**This is the User Guide of ticket tracker**
 
 It will show you how to use the program.
 
