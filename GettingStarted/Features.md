@@ -13,12 +13,19 @@ This is the way you can find out the product code.
 It's easy to find out.
 
 1.Use Google Chrome.
+
 2.Go to the page you want to use the program to check.
+
 3.Press F12 in your keyboard.
+
 4.Click Elements.
+
 5.Press Ctrl + F for seacrh the word.
+
 6.type the word "retrieveShowDateTime" (don't type "").
+
 7.and you will find out the productCode,which is behind retrieveShowDateTime.
+
 
 ### Setting
 
