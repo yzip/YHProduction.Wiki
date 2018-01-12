@@ -1,33 +1,34 @@
-*Here is a collection of questions that staff and helpful members get asked on daily basis.They are not troubleshooting-related,I will try to give comprehensive answers to you here!*
+*这里是一些经常被问到的问题. 这些不是解决问题相关的事情， 所以并没有非常准确的答案。 我们会尝试给予最好回答!*
 
-### Question 1: Will i get any update support?
-
----
-
-Answer: Actually,I usually to provide program update patch when the program have any problem or the website have updated.But this program i would not like to provide any program update to you.I would like to say $HKD2,000 are not are fair price to me.It is hard to made this program,and i think if you want any updated,please pay me more $HKD500/PER UPDATE OR $HKD1000/LIFETIME UPDATE.
-
-### Question 2: Can I use your software on my device?
+### 问题 1: GE 和其他服务有什么不同?
 
 ---
 
-Answer: Our software can currently only be ran on devices with Windows 7 or higher installed. You have to run emulator (like Boot Camp for MacOS) in order to be able to use our software on other operational systems.
+在GE，我们专注于用户的使用体验. 我们强烈希望能提供市场上最好最方便最专业的服务，包含能力强大的问题解决团队。用户当然也能第一时间与管理们进行接触或者与他们游戏或者建立起朋友关系。就看你自己想做什么了（版规以内），我们将会陪着你一起！
 
-
-### Question 3: Can i buy the program source?
-
----
-
-Answer: Yes.If you are interested,please contact me on telegram.
-
-
-### Question 4: Can i request more feature?
+### 问题 2: 我的电脑能用吗?
 
 ---
 
-Answer: Yes,i can try to make it and please pay me more.
+我们的软件可以在 WIN 7 或者更高的系统下安装 （需要支持 .NET Framework 4）.
 
-### Question 5: How different is YHProduction from other services out there?
+### 问题 3: 我能帮你们吗?
 
 ---
 
-Answer: We strive to provide the best service by supplying you with easy-to-setup yet exceptionally efficient software and quick, professional support in case something goes wrong.we will do our best to make it worthwhile!
+当然. 如果有人问到你刚好会的问题 - 帮助他们! 而或,如果管理团队中缺少某个语言的管理又有违反的事项时 - 请详细的告诉我们。 当你的贡献程度大家有目共睹后 - 你将会加入到管理的团队中。
+
+### 问题 4: 你们会公开API让其他脚本作者制作脚本吗?
+
+---
+
+目前没有这个打算!
+
+### 问题 5: 有发布英雄脚本的顺序吗? 下一个会是什么英雄呢?
+
+---
+
+我们首先移植OKTW的英雄, 然后我们会公开进行投票。获得投票数量的英雄则会优先. 
+
+
+

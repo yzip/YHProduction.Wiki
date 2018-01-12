@@ -1,12 +1,18 @@
-site_name: YHProduction Wiki
-repo_url: https://github.com/yzip/YHProduction.Wiki
+site_name: GoElites Wiki 中文
+repo_url: https://github.com/GEUchiha/GoElites.Wiki.Chinese
 pages:
-- Home: index.md
-- Prior notice:
-    - Terms of Use: CommunityPrinciples/CommunityGuidelines.md
-- Getting Started:
-    - Features Explained: GettingStarted/Features.md
-    - Frequently Asked Questions: GettingStarted/FrequentlyAskedQuestions.md
-- Receipt:
-    - Bank Transfer: Receipt/BankTransfer.md
+- 主页: index.md
+- 规则须知:
+    - 论坛规则: CommunityPrinciples/CommunityGuidelines.md
+    - 管理规则: CommunityPrinciples/SupportGuidelines.md
+- 入门:
+    - 安装 GE: GettingStarted/Installation.md
+    - 功能详解: GettingStarted/Features.md
+    - 支持的英雄: GettingStarted/SupportedChampions.md
+    - 常见问题: GettingStarted/FrequentlyAskedQuestions.md
+- 故障解决:
+    - 如何汇报问题: Troubleshooting/TroubleshootingReportGuide.md
+    - 论坛使用帮助: Troubleshooting/WebsiteTroubleshooting.md
+    - 软件使用帮助: Troubleshooting/ApplicationTroubleshooting.md
+    
 theme: readthedocs
