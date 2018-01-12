@@ -2,7 +2,7 @@
 
 - Bank Transfer
 
-<img src="https://emojipedia-us.s3.amazonaws.com/thumbs/120/apple/118/flag-for-united-states_1f1fa-1f1f8.png" >
+<img src="https://i.imgur.com/3EkV1mr.jpg" >
 
 | Date | Price | Admin |
 |--|--|--|
