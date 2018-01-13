@@ -1,8 +1,8 @@
 ### How it works
 
-Tickets Checker was made by Visual Basic 6.0,there were many features made for you.
+Ticktet Tracker was made by Visual Basic 6.0,there were many features made for you.
 Every module, however, is highly customizable.
-This allows us to keep Tickets Checker easy-to-setup and easy-to-use without taking a toll on precious CPU and RAM.
+This allows us to keep Ticktet Tracker easy-to-setup and easy-to-use without taking a toll on precious CPU and RAM.
 
 ### ProductCode
 
